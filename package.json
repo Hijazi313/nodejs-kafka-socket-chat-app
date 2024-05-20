@@ -1,5 +1,12 @@
 {
-  "name": "scalable-chat",
+  "name": "kafka-node-chat-app",
+  "version": "1.0.0",
+  "description": "A basic scalble chat application using PostgresSQL, Redis Pub/Sub , Kafka and prisma",
+  "keywords": ["nodejs", "prisma", "kafka", "kafkajs", "postgresql", "redis", "pub/sub"],
+  "author": {
+    "name": "Muhammad Hamza Asif Hijazi",
+    "email": "imhamzaa313@gmail.com"
+  },
   "private": true,
   "scripts": {
     "build": "turbo build",
